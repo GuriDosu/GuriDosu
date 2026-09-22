@@ -44,4 +44,4 @@
 <br>
 
 ### 📊 Estatísticas e Atividade
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GuriDosu)](https://github.com/stats-organization/github-stats-extended)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GuriDosu&show_icons=true&theme=highcontrast)
